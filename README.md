@@ -8,7 +8,7 @@ The data compares the performance of 12 different stocks between the years 2017 
    ![StockAnalysisOutput_2018](StockAnalysisOutput_2017.png)
  ### Refactored Script Results
  The original script was slightly less efficient than the refactored one in running the stock analysis. For 2017, the original script took approximate .58 seconds.
-    ![oldTime2017](oldTIme2017.png)
+    ![oldTime2017](Resources/oldTIme2017.png)
  The 2018 results took slightly longer with approximately .65 seconds. 
     ![oldTime2018](StockAnalysisOutput_2017.png)
  The Refactored code showed much faster results. This VBA script was refactored to add significant loops and conditions to simplify the process and allow for future changes and applications, should they be necessary. The 2017 and 2018 results are shown below:
