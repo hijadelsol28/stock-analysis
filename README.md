@@ -12,7 +12,7 @@ The data compares the performance of 12 different stocks between the years 2017 
  ### Refactored Script Results
  The original script was slightly less efficient than the refactored one in running the stock analysis. For 2017, the original script took approximate .58 seconds.
     
-    ![oldTime2017](Resources/oldTIme2017.png)
+    ![oldTime2017](oldTime2017.png)
  
  The 2018 results took slightly longer with approximately .65 seconds. 
    
